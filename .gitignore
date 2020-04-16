@@ -1,0 +1,10 @@
+*.log
+*.DS_Store
+node_modules
+package-lock.json
+src
+docs
+examples
+.github
+.storybook
+scripts
